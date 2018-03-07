@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\IN2_Test\IN2.Domain\bin\Debug\Tatooine.Domain.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\IN2_Test\IN2.Domain\bin\Debug\Tatooine.Domain.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\IN2_Test\IN2.Domain\obj\Debug\Tatooine.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\IN2_Test\IN2.Domain\obj\Debug\Tatooine.Domain.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\IN2_Test\IN2.Domain\obj\Debug\Tatooine.Domain.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\IN2_Test\IN2.Domain\bin\Debug\Tatooine.Domain.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\IN2_Test\IN2.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\IN2_Test\IN2.Domain\bin\Debug\EntityFramework.xml
